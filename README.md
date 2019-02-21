@@ -1,1 +1,1 @@
-# template-b
+# template-nuxt
